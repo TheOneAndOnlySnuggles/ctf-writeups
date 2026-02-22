@@ -1,1 +1,1 @@
-[FactuallyMiserable.github.io/ctf-writeups](https://FactuallyMiserable.github.io/ctf-writeups)
+[TheOneAndOnlySnuggles.github.io/ctf-writeups](https://TheOneAndOnlySnuggles.github.io/ctf-writeups)
